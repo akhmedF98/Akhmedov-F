@@ -1,0 +1,15 @@
+.btn-outline-success {
+    color: white;
+}
+.corz{
+    background: red;
+    width: 20px;
+    height: 20px;
+    color: aliceblue;
+    position: relative;
+    left: 47px;
+    top: 5px;
+    font-size: 15px;
+    text-align: center;
+    border-radius: 10px;
+}
